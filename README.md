@@ -20,17 +20,16 @@ a short performance report.
 ## Concepts Practiced
 - Control Flow (`if`, `else if`, `else`)
 - `switch` statement
-- Arrays
 - Loops
-- ---
-
-## Purpose
-This project is part of my Java learning journey and focuses on
-understanding **control flow and decision-based logic** in real-world scenarios.
-- 
+- Arrays
 - Methods
 - User input handling with `Scanner`
 
 ---
 
-## Sample Output
+## Purpose
+This project is part of my Java learning journey and focuses on
+understanding **control flow and decision-based logic** in real-world scenarios.
+
+---
+
